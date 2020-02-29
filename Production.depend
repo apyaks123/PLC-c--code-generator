@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1582959593 source:c:\users\limp_\onedrive\desktop\production\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+	<stdlib.h>
+	<sstream>
+
